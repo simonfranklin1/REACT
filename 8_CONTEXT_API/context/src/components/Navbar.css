@@ -1,0 +1,10 @@
+.Navbar {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.active {
+    background-color: aqua;
+    color: black;
+}

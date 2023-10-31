@@ -1,0 +1,16 @@
+.titulo {
+    color: aquamarine;
+}
+
+.botao {
+    background-color: coral;
+    color: red;
+    transition: .2s;
+    cursor: pointer;
+    border: none;
+}
+
+.botao:hover {
+    scale: 1.1;
+    border: none;
+}
